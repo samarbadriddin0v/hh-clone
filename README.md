@@ -4,7 +4,18 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.ibb.co/8zxLWN9/mobile-app-2.png" alt="project-screenshot" width="100%" height="400/">
+<img src="https://media.graphassets.com/NafbfAlQ9SUL7z07yVCA" alt="project-screenshot" width="100%" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Mobile application
+*   IOS
+*   Adnroid
+*   Mobile developments
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -32,3 +43,4 @@ Technologies used in the project:
 *   Expo
 *   Expo router
 *   React Navigation
+*   Custom theme
