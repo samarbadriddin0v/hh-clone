@@ -1,1 +1,1 @@
-# react-native-hh-clone
+# React native job search mobile application
